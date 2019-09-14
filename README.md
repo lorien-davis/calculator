@@ -5,9 +5,9 @@ A simple web calculator that is responsive and can compute basic math.
 So far the calculator only supports very basic sums, like addition, subtraction, multiplication and division.
 
 #### Coming Soon:
-..* Order of operations **_Including the use of brackets_**
-..* More complex operations *i.e cos, sin, tan*
-..* A delete button that only removes the last input
+* Order of operations **_Including the use of brackets_**
+* More complex operations *i.e cos, sin, tan*
+* A delete button that only removes the last input
 
 ## How to use?
 To use the calculator in its current state, visit [https://lorien-davis.github.io/calculator/](https://lorien-davis.github.io/calculator/).
