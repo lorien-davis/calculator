@@ -4,10 +4,11 @@ A simple web calculator that is responsive and can compute basic math.
 ## Features
 So far the calculator only supports very basic sums, like addition, subtraction, multiplication and division.
 
-#### Coming Soon:
-* Order of operations **_Including the use of brackets_**
-* More complex operations *i.e cos, sin, tan*
-* A delete button that only removes the last input
+## Bugs
+Currently the calculator is riddled with bugs, including but not limited to:
+- performing operations when user has not input a number
+- overflowing the screen when user makes a large calculation
+- crashing when the user divides by 0
 
 ## How to use?
 To use the calculator in its current state, visit [https://lorien-davis.github.io/calculator/](https://lorien-davis.github.io/calculator/).
